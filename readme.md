@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Akshita</h1>
+<h1 align="center">Hi 👋, I'm Akshita</h1>
 <h3 align="center">A passionate and dynamic undergrad.</h3>
 <img align=“right” width=400 alt=“coding” src=”https://giphy.com/embed/RbDKaczqWovIugyJmW”>
 <h3 align="left">Connect with me:</h3>
